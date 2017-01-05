@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hello!
+
+My name is Parveen Kaur and I am currently a Masters Student at The University of British Columbia, UBC, in the Masters of Data Science Program. I completed my undergraduate degree also at UBC as a Major in Biology. 
+
+You can usually find me nursing a 3 hour old coffee pretending to do assignments while actually browsing Pinterest.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I would like to think of myself as an artsy scientist (though one might argue all scientists are creatives). Follow my artistic journey over on [Instagram](http://instagram.com/citrushues/)
